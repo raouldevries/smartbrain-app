@@ -1,3 +1,5 @@
+The code for this project was built following the Udemy course The Complete Web Developer Course by Andrei Neagoie: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
